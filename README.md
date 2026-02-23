@@ -33,7 +33,4 @@ This project implements a multi-model ensemble framework to detect ransomware ac
     
 ---
 
-## 📂 Core Files (核心程式碼說明)
-*   `src/preprocessing.py`: 數據清洗與特徵工程實作。
-*   `src/ensemble_model.py`: 多模型集成邏輯與權重分配演算法。
-*   `notebooks/experiment_results.ipynb`: 實驗過程紀錄與模型比較分析。
+
