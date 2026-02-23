@@ -24,13 +24,13 @@ This project implements a multi-model ensemble framework to detect ransomware ac
 ---
 
 ## 🛠 Tech Stack (技術棧)
-*   **Language:** Python 3.x
+*   **Language:** Python 3.11+ (Developed & Tested on Google Colab)
 *   **Libraries:** 
     *   `Scikit-learn` (Ensemble modeling, evaluation)
-    *   `XGBoost` / `LightGBM` (Gradient boosting implementation)
+    *   `XGBoost` (Gradient boosting implementation)
     *   `Pandas` & `NumPy` (Data preprocessing & feature engineering)
     *   `Matplotlib` / `Seaborn` (Visualizing experimental results)
-
+    
 ---
 
 ## 📂 Core Files (核心程式碼說明)
